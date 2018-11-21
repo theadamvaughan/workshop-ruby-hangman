@@ -2,7 +2,7 @@
 
 ## Part 1 - The HangmanGame Class
 
-Build a `HangmanGame` class that implements the following interface. It should load a random word from the `dictionary.rb` file.
+Build a `HangmanGame` class that implements the following interface. It should load a random word from the `dictionary.txt` file.
 
 ### `initialize(path:, turns:, :word)`
 
